@@ -1,83 +1,83 @@
 #EXTM3U
-#EXTINF:-1,BHT 1
+#EXTINF:-1 tvg-id="BHT1" tvg-name="BHT 1" group-title="TV",BHT 1
 http://51.195.6.191:8080/BHT1/index.m3u8?token=test
-#EXTINF:-1,Nova BH
+#EXTINF:-1 tvg-id="NovaBH" tvg-name="Nova BH" group-title="TV",Nova BH
 http://51.195.6.191:8080/NovaBH/index.m3u8?token=test
-#EXTINF:-1,N1
+#EXTINF:-1 tvg-id="N1HR" tvg-name="N1" group-title="TV",N1
 http://51.195.6.191:8080/N1HR/index.m3u8?token=test
-#EXTINF:-1,Pink BH
+#EXTINF:-1 tvg-id="PinkBH" tvg-name="Pink BH" group-title="TV",Pink BH
 http://51.195.6.191:8080/PinkBH/index.m3u8?token=test
-#EXTINF:-1,HRT 1 HD
+#EXTINF:-1 tvg-id="HRT1" tvg-name="HRT 1 HD" group-title="TV",HRT 1 HD
 http://51.195.6.191:8080/HRT1/index.m3u8?token=test
-#EXTINF:-1,HRT 2 HD
+#EXTINF:-1 tvg-id="HRT2" tvg-name="HRT 2 HD" group-title="TV",HRT 2 HD
 http://51.195.6.191:8080/HRT2/index.m3u8?token=test
-#EXTINF:-1,HRT 3 HD
+#EXTINF:-1 tvg-id="HRT3" tvg-name="HRT 3 HD" group-title="TV",HRT 3 HD
 http://51.195.6.191:8080/HRT3/index.m3u8?token=test
-#EXTINF:-1,HRT 4 HD
+#EXTINF:-1 tvg-id="HRT4" tvg-name="HRT 4 HD" group-title="TV",HRT 4 HD
 http://51.195.6.191:8080/HRT4/index.m3u8?token=test
-#EXTINF:-1,RTS 2 HD
+#EXTINF:-1 tvg-id="RTS2HD" tvg-name="RTS 2 HD" group-title="TV",RTS 2 HD
 http://51.195.6.191:8080/RTS2HD/index.m3u8?token=test
-#EXTINF:-1,RTS 3 HD 10
+#EXTINF:-1 tvg-id="RTS3HD" tvg-name="RTS 3 HD 10" group-title="TV",RTS 3 HD 10
 http://51.195.6.191:8080/RTS3HD/index.m3u8?token=test
-#EXTINF:-1,MRT 2 HD
+#EXTINF:-1 tvg-id="MRT2HD" tvg-name="MRT 2 HD" group-title="TV",MRT 2 HD
 http://51.195.6.191:8080/MRT2HD/index.m3u8?token=test
-#EXTINF:-1,HBO HD
+#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBO HD" group-title="TV",HBO HD
 http://51.195.6.191:8080/HBOHD/index.m3u8?token=test
-#EXTINF:-1,HBO 2 HD
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 HD" group-title="TV",HBO 2 HD
 http://51.195.6.191:8080/HBO2/index.m3u8?token=test
-#EXTINF:-1,HBO 3 HD
+#EXTINF:-1 tvg-id="HBO3" tvg-name="HBO 3 HD" group-title="TV",HBO 3 HD
 http://51.195.6.191:8080/HBO3/index.m3u8?token=test
-#EXTINF:-1,RTL Crime
+#EXTINF:-1 tvg-id="RTLCrimeHR" tvg-name="RTL Crime" group-title="TV",RTL Crime
 http://51.195.6.191:8080/RTLCrimeHR/index.m3u8?token=test
-#EXTINF:-1,Cinestar Premiere 1
+#EXTINF:-1 tvg-id="CinestarPremiere1" tvg-name="Cinestar Premiere 1" group-title="TV",Cinestar Premiere 1
 http://51.195.6.191:8080/CinestarPremiere1/index.m3u8?token=test
-#EXTINF:-1,Cinestar Premiere 2
+#EXTINF:-1 tvg-id="CinestarPremiere2" tvg-name="Cinestar Premiere 2" group-title="TV",Cinestar Premiere 2
 http://51.195.6.191:8080/CinestarPremiere2/index.m3u8?token=test
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1 tvg-id="Cinemax1" tvg-name="Cinemax HD" group-title="TV",Cinemax HD
 http://51.195.6.191:8080/Cinemax1/index.m3u8?token=test
-#EXTINF:-1,Cinemax 2 HD
+#EXTINF:-1 tvg-id="Cinemax2" tvg-name="Cinemax 2 HD" group-title="TV",Cinemax 2 HD
 http://51.195.6.191:8080/Cinemax2/index.m3u8?token=test
-#EXTINF:-1,Cinestar Action
+#EXTINF:-1 tvg-id="CinestarAction" tvg-name="Cinestar Action" group-title="TV",Cinestar Action
 http://51.195.6.191:8080/CinestarAction/index.m3u8?token=test
-#EXTINF:-1,Cinestar Fantasy
+#EXTINF:-1 tvg-id="CinestarFantasy" tvg-name="Cinestar Fantasy" group-title="TV",Cinestar Fantasy
 http://51.195.6.191:8080/CinestarFantasy/index.m3u8?token=test
-#EXTINF:-1,Cinestar Comedy
+#EXTINF:-1 tvg-id="CinestarComedy" tvg-name="Cinestar Comedy" group-title="TV",Cinestar Comedy
 http://51.195.6.191:8080/CinestarComedy/index.m3u8?token=test
-#EXTINF:-1,Pink Western
+#EXTINF:-1 tvg-id="PinkWestern" tvg-name="Pink Western" group-title="TV",Pink Western
 http://51.195.6.191:8080/PinkWestern/index.m3u8?token=test
-#EXTINF:-1,Pink Premium HD
+#EXTINF:-1 tvg-id="PinkPremium" tvg-name="Pink Premium HD" group-title="TV",Pink Premium HD
 http://51.195.6.191:8080/PinkPremium/index.m3u8?token=test
-#EXTINF:-1,Pink World Cinema
+#EXTINF:-1 tvg-id="PinkWorldCinema" tvg-name="Pink World Cinema" group-title="TV",Pink World Cinema
 http://51.195.6.191:8080/PinkWorldCinema/index.m3u8?token=test
-#EXTINF:-1,Pink Romance
+#EXTINF:-1 tvg-id="PinkRomance" tvg-name="Pink Romance" group-title="TV",Pink Romance
 http://51.195.6.191:8080/PinkRomance/index.m3u8?token=test
-#EXTINF:-1,Pink Thriller
+#EXTINF:-1 tvg-id="PinkThriller" tvg-name="Pink Thriller" group-title="TV",Pink Thriller
 http://51.195.6.191:8080/PinkThriller/index.m3u8?token=test
-#EXTINF:-1,Pink Serije
+#EXTINF:-1 tvg-id="PinkSerije" tvg-name="Pink Serije" group-title="TV",Pink Serije
 http://51.195.6.191:8080/PinkSerije/index.m3u8?token=test
-#EXTINF:-1,Pink Plus Elita
+#EXTINF:-1 tvg-id="PinkPlus" tvg-name="Pink Plus Elita" group-title="TV",Pink Plus Elita
 http://51.195.6.191:8080/PinkPlus/index.m3u8?token=test
-#EXTINF:-1,Pink Soap
+#EXTINF:-1 tvg-id="PinkSoap" tvg-name="Pink Soap" group-title="TV",Pink Soap
 http://51.195.6.191:8080/PinkSoap/index.m3u8?token=test
-#EXTINF:-1,Pink Family
+#EXTINF:-1 tvg-id="PinkFamily" tvg-name="Pink Family" group-title="TV",Pink Family
 http://51.195.6.191:8080/PinkFamily/index.m3u8?token=test
-#EXTINF:-1,Pink Action
+#EXTINF:-1 tvg-id="PinkAction" tvg-name="Pink Action" group-title="TV",Pink Action
 http://51.195.6.191:8080/PinkAction/index.m3u8?token=test
-#EXTINF:-1,Pink Comedy
+#EXTINF:-1 tvg-id="PinkComedy" tvg-name="Pink Comedy" group-title="TV",Pink Comedy
 http://51.195.6.191:8080/PinkComedy/index.m3u8?token=test
-#EXTINF:-1,Pink Classic
+#EXTINF:-1 tvg-id="PinkClassic" tvg-name="Pink Classic" group-title="TV",Pink Classic
 http://51.195.6.191:8080/PinkClassic/index.m3u8?token=test
-#EXTINF:-1,Prva World
+#EXTINF:-1 tvg-id="PrvaWorld" tvg-name="Prva World" group-title="TV",Prva World
 http://51.195.6.191:8080/PrvaWorld/index.m3u8?token=test
-#EXTINF:-1,Viasat Kino
+#EXTINF:-1 tvg-id="ViasatKino" tvg-name="Viasat Kino" group-title="TV",Viasat Kino
 http://51.195.6.191:8080/ViasatKino/index.m3u8?token=test
-#EXTINF:-1,Viasat Nature
+#EXTINF:-1 tvg-id="ViasatNature" tvg-name="Viasat Nature" group-title="TV",Viasat Nature
 http://51.195.6.191:8080/ViasatNature/index.m3u8?token=test
-#EXTINF:-1,Viasat Explorer HD
+#EXTINF:-1 tvg-id="ViasatExplorer" tvg-name="Viasat Explorer HD" group-title="TV",Viasat Explorer HD
 http://51.195.6.191:8080/ViasatExplorer/index.m3u8?token=test
-#EXTINF:-1,Viasat History HD
+#EXTINF:-1 tvg-id="ViasatHistory" tvg-name="Viasat History HD" group-title="TV",Viasat History HD
 http://51.195.6.191:8080/ViasatHistory/index.m3u8?token=test
-#EXTINF:-1,NatGeo Wild HD
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="NatGeo Wild HD" group-title="TV",NatGeo Wild HD
 http://51.195.6.191:8080/NatGeoWild/index.m3u8?token=test
-#EXTINF:-1,OBN HD
+#EXTINF:-1 tvg-id="OBN" tvg-name="OBN HD" group-title="TV",OBN HD
 http://51.195.6.191:8080/OBN/index.m3u8?token=test
